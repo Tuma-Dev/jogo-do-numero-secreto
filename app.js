@@ -32,7 +32,7 @@ function verificarChute() {
     }
     tentativas++;
     clearCamp();
-    console.log(numberSecret);
+    // console.log(numberSecret);
 }
 
 function generateNumber() {
